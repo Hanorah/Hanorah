@@ -1,41 +1,40 @@
-<div align="center">
+# OKOSODO HANORAH
 
-# Okosodo Hanorah
 
-**Designer · Developer · Software Engineer**
+<p align="center"><strong>Designer · Developer · Software Engineer</strong></p>
 
-*Process automation · AI/ML · React & Node · Product design*
 
-<br/>
+## SOFTWARE
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-cheespace.com-171717?style=for-the-badge&labelColor=171717&logo=googlechrome&logoColor=caf182)](https://cheespace.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-okosodo--hanorah-171717?style=for-the-badge&labelColor=171717&logo=linkedin&logoColor=caf182)](https://www.linkedin.com/in/okosodo-hanorah)
-[![Email](https://img.shields.io/badge/Email-ksdnorah@gmail.com-171717?style=for-the-badge&labelColor=171717&logo=gmail&logoColor=caf182)](mailto:ksdnorah@gmail.com)
+## ENGINEER
 
-<br/>
 
-</div>
+### ABOUT
+
+I build interfaces and systems where design and engineering stay in the same conversation — clear layout, intentional motion, and code that stays maintainable when the idea grows.
 
 ---
 
-### Now building
+### CONNECT
 
-Software that sits at the intersection of **design systems**, **frontend craft**, and **solid engineering** — same voice as [cheespace.com](https://cheespace.com).
-
----
-
-### On my desk
-
-| | |
-| :--- | :--- |
-| **Focus** | Product UI, design-to-code, automation, applied ML where it earns its keep |
-| **Stack** | React, Next.js, Node — plus whatever the problem asks for |
-| **Principles** | Clarity over noise; motion and layout with intent; accessibility as default |
+**Portfolio** — [my site](https://okosodo-hanorah.vercel.app/)
+**GitHub** — [@Hanorah](https://github.com/Hanorah)  
+**LinkedIn** — [Okosodo Hanorah](https://www.linkedin.com/in/okosodo-hanorah)  
+**Email** — [ksdnorah@gmail.com](mailto:ksdnorah@gmail.com)
 
 ---
 
-<div align="center">
+### FOCUS
 
-<sub>Profile README styled after <a href="https://cheespace.com">cheespace.com</a> — neutral base, uppercase rhythm, accent <code>#caf182</code>.</sub>
+**Product UI** — design systems, handoff, polish  
+**Stack** — React, Next.js, Node — plus what the problem needs  
+**Interests** — process automation, applied ML, product design
 
-</div>
+---
+
+### RESUME
+
+[View / download resume (PDF)](https://okosodo-hanorah.vercel.app/resume) 
+
+---
+
