@@ -1,29 +1,41 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=Okosodo%20Hanorah&fontSize=55&fontAlignY=35&animation=fadeIn&desc=Engineer%20%7C%20AI%2FML%20%7C%20Product%20Builder&descAlignY=60&descSize=18"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://okosodo-hanorah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:ksdnorah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/okosodo-hanorah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</p>
+# Okosodo Hanorah
 
-<br>
+**Designer · Developer · Software Engineer**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=20&center=true&vCenter=true&width=650&height=45&color=4ECDC4&duration=3500&lines=Building+products+that+move+the+needle.;AI+%2B+Full-Stack+%2B+Product.;Open+to+collaboration." />
-</p>
+*Process automation · AI/ML · React & Node · Product design*
 
-<br>
+<br/>
 
-## 👋
+[![Portfolio](https://img.shields.io/badge/Portfolio-cheespace.com-171717?style=for-the-badge&labelColor=171717&logo=googlechrome&logoColor=caf182)](https://cheespace.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-okosodo--hanorah-171717?style=for-the-badge&labelColor=171717&logo=linkedin&logoColor=caf182)](https://www.linkedin.com/in/okosodo-hanorah)
+[![Email](https://img.shields.io/badge/Email-ksdnorah@gmail.com-171717?style=for-the-badge&labelColor=171717&logo=gmail&logoColor=caf182)](mailto:ksdnorah@gmail.com)
 
-Software Engineer. AI/ML. Full-Stack. Product Builder.
+<br/>
 
-B.Sc. Agriculture → Software Engineer. I ship scalable platforms and AI-driven products. 4+ years. 30% downtime cut. 40% backend gains. Founded CheeSpace.
+</div>
 
-> *Build things that actually move the needle.*
+---
 
-<br>
+### Now building
 
-## 🛠️
+Software that sits at the intersection of **design systems**, **frontend craft**, and **solid engineering** — same voice as [cheespace.com](https://cheespace.com).
+
+---
+
+### On my desk
+
+| | |
+| :--- | :--- |
+| **Focus** | Product UI, design-to-code, automation, applied ML where it earns its keep |
+| **Stack** | React, Next.js, Node — plus whatever the problem asks for |
+| **Principles** | Clarity over noise; motion and layout with intent; accessibility as default |
+
+---
+
+<div align="center">
+
+<sub>Profile README styled after <a href="https://cheespace.com">cheespace.com</a> — neutral base, uppercase rhythm, accent <code>#caf182</code>.</sub>
+
+</div>
