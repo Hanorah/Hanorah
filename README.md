@@ -127,5 +127,3 @@
   &nbsp;·&nbsp;
   <a href="tel:+2348139723327"><b>Phone</b></a>
 </p>
-
-<p align="center"><sub>HANORAH — same structure as the portfolio: rules, big type, sections.</sub></p>
