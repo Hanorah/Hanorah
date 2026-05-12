@@ -4,7 +4,7 @@
   If your username is not Hanorah, replace Hanorah/Hanorah in the img src below.
 -->
 
-<a href="https://okosodo-hanorah.vercel.app/"><img src="https://raw.githubusercontent.com/Hanorah/Hanorah/main/github-profile/banner.svg" alt="Okosodo Hanorah — visit portfolio" width="100%"></a>
+<a href="https://okosodo-hanorah.vercel.app/"><img src="/banner.svg" alt="Okosodo Hanorah — visit portfolio" width="100%"></a>
 
 ---
 
